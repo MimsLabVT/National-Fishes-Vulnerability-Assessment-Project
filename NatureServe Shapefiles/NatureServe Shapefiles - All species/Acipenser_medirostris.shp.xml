@@ -1,3 +1,0 @@
-<?xml version="1.0"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="en"><Esri><MetaID>{BCAE829C-63C6-4F7F-947C-9B2D29D62102}</MetaID><CreaDate>20100915</CreaDate><CreaTime>15432400</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20100915" Time="154324">CopyFeatures Targets_lyr E:\Projects\Zoology\Fish\Shapefiles\Acipenser_medirostris.shp # 0 0 0</Process></lineage></DataProperties></Esri></metadata>
